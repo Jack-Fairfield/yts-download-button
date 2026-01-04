@@ -1,1 +1,0 @@
-import('./example.iife_dev.js');
