@@ -1,5 +1,6 @@
 {
-  "name": "chrome-extension-react-template",
+  "name": "yts-download-button",
+  "description": "A Chrome extension that replaces the download button on YTS with a custom button",
   "private": true,
   "version": "0.0.0",
   "type": "module",
