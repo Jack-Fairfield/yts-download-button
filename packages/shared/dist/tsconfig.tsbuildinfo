@@ -1,0 +1,1 @@
+{"root":["../index.mts","../lib/hoc/index.ts","../lib/hoc/with-error-boundary.tsx","../lib/hoc/with-suspense.tsx","../lib/hooks/index.ts","../lib/hooks/use-storage.tsx","../lib/utils/colorful-logger.ts","../lib/utils/const.ts","../lib/utils/helpers.ts","../lib/utils/index.ts","../lib/utils/init-app-with-shadow.ts","../lib/utils/types.ts"],"version":"5.9.2"}
