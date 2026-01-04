@@ -24,7 +24,7 @@ function replaceDownloadButton(button: HTMLElement) {
         .filter((href) => href);
 
       try {
-        const response = await fetch("http://bosgame-82wrq:3000/magnet", {
+        const response = await fetch("https://192.168.50.63:3000/magnet", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
